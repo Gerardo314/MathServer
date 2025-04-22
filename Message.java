@@ -2,15 +2,15 @@ import java.io.Serializable;
 
 public class Message implements Serializable
 {
-    private String messageType;
-    private String messageText;
-    private String clientName;
+    private String messageType;//connect, connected, expression, result, error, terminate
+    private String messageText;//expression Strings, results, error
+    private String clientName;//name of the user sending the math expression
 
     public Message(String messageType,String messageText,String clientName)
     {
-        this.messageType = messageType;
-        this.messageText = messageText;
-        this.clientName = clientName;
+        this.messageType = messageType; 
+        this.messageText = messageText; 
+        this.clientName = clientName; 
     }
 
     //define getters methods
