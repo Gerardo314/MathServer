@@ -5,26 +5,30 @@ import java.util.concurrent.TimeUnit;
 
 class TCPClient 
 {
-
     public static void main(String argv[]) throws Exception
     {
-        String clientName;
+       
         System.out.println("Client is running: " );
 
-        Socket clientSocket = new Socket("127.0.0.1", 6789);
+        //connect to the server using its destination IP address(127.0.0.1) and port number(6790)
+        Socket clientSocket = new Socket("127.0.0.1", 6790);
+
+        //set up output and input streams for sending/receiving message objects
         ObjectOutputStream out = new ObjectOutputStream(clientSocket.getOutputStream());
         ObjectInputStream in = new ObjectInputStream(clientSocket.getInputStream());
+
         Scanner scan = new Scanner(System.in);
 
-        //prompt the clients to their name
+        //prompt the client to enter their name
+        String clientName;
         System.out.print("Enter your name: ");
         clientName = scan.nextLine(); //read client name 
 
-        //send connection request
+        //send connection establishment request - send a message object with "connect" and client name
         Message connectMessage = new Message("connect","",clientName);
         out.writeObject(connectMessage);
 
-        //wait for acknowledgement from the server
+        //wait for acknowledgement from the server - a message object with "connected"
         Message messageAck = (Message)in.readObject();
         if("connected".equalsIgnoreCase(messageAck.getMessageType()))
         {
@@ -32,41 +36,59 @@ class TCPClient
         }
         else
         {
-          System.out.println("Failed to connect!");
+          System.out.println("Failed to connect");
           return;
         }
 
-        //send math expression at random intervals
-        String[] expressions =
+        //send math expressions at random intervals
+        int numberofExpressions = 3; //number of expression send for each client
+        for(int i=0;i<numberofExpressions;i++)
         {
-          "2 * (3 + 4)",
-          "10 / 5",
-          "10 / 0",
-        };
+          TimeUnit.SECONDS.sleep((int)(Math.random() * 5) + 1); //wait for 1-5 seconds before sending a new expression
+          String expression = generateMathExpression(); //generate random math expressions
 
-        for(String expressionString: expressions)
-        {
-          TimeUnit.SECONDS.sleep((int)(Math.random() * 3) + 1); //wait for 1-3 seconds
-          Message expressionMessage = new Message("expression",expressionString,clientName);
+          //create a message object with "expression" and send the expression to the server
+          Message expressionMessage = new Message("expression",expression,clientName);
           out.writeObject(expressionMessage);
           
-          //get results from server 
+          //receive a message object from server - either "result" or  "error"
           Message resultMessage = (Message) in.readObject();
           if("result".equalsIgnoreCase(resultMessage.getMessageType()))
           {
+            System.out.println("Expression: " + expression);
             System.out.println("Result: " + resultMessage.getMessageText());
           } 
           else if("error".equalsIgnoreCase(resultMessage.getMessageType()))
           {
+            System.out.println("Expression: " + expression);
             System.out.println("Error: " + resultMessage.getMessageText());
           }
         }
-          
+
           //terminate connection with server once done sending all math expressions
           Message terminateMessage = new Message("terminate","",clientName);
           out.writeObject(terminateMessage);
 
           System.out.println("Connection terminated");
-        clientSocket.close();
+          clientSocket.close(); //close the socket connection 
+    }
+
+
+    /**
+     * A method to generate a random math expression of the form:
+     * number1 operator number2
+     */
+    public static String generateMathExpression()
+    {
+      String[] operators = {"+","-","*","/"};
+
+      //generate random numbers from 0-99
+      int leftOperand  = (int)(Math.random() * 100); 
+      int rightOperand = (int)(Math.random() * 100);
+
+      //pick a random operator
+      String operator = operators[(int)(Math.random() * operators.length)];
+          
+      return leftOperand + " " + operator + " " + rightOperand;
     }
 }
