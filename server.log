@@ -1,0 +1,16 @@
+Apr 22, 2025 10:40:22 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52401 has been connected at 2025-04-22T22:40:22.299986200
+Apr 22, 2025 10:40:25 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52401 sent message: 89 - 2
+Apr 22, 2025 10:40:25 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52401 has been given result: 87.0 at: 2025-04-22T22:40:25.311034800
+Apr 22, 2025 10:40:29 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52401 sent message: 17 + 26
+Apr 22, 2025 10:40:29 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52401 has been given result: 43.0 at: 2025-04-22T22:40:29.314110
+Apr 22, 2025 10:40:31 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52401 sent message: 23 + 45
+Apr 22, 2025 10:40:31 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52401 has been given result: 68.0 at: 2025-04-22T22:40:31.317195400
+Apr 22, 2025 10:40:31 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52401 has been terminated at 2025-04-22T22:40:31.318194500
