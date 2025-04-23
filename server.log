@@ -1,16 +1,52 @@
-Apr 22, 2025 10:40:22 PM ClientHandler run
-INFO: Client /127.0.0.1 Port: 52401 has been connected at 2025-04-22T22:40:22.299986200
-Apr 22, 2025 10:40:25 PM ClientHandler run
-INFO: Client /127.0.0.1 Port: 52401 sent message: 89 - 2
-Apr 22, 2025 10:40:25 PM Server lambda$0
-INFO: Client /127.0.0.1 Port: 52401 has been given result: 87.0 at: 2025-04-22T22:40:25.311034800
-Apr 22, 2025 10:40:29 PM ClientHandler run
-INFO: Client /127.0.0.1 Port: 52401 sent message: 17 + 26
-Apr 22, 2025 10:40:29 PM Server lambda$0
-INFO: Client /127.0.0.1 Port: 52401 has been given result: 43.0 at: 2025-04-22T22:40:29.314110
-Apr 22, 2025 10:40:31 PM ClientHandler run
-INFO: Client /127.0.0.1 Port: 52401 sent message: 23 + 45
-Apr 22, 2025 10:40:31 PM Server lambda$0
-INFO: Client /127.0.0.1 Port: 52401 has been given result: 68.0 at: 2025-04-22T22:40:31.317195400
-Apr 22, 2025 10:40:31 PM ClientHandler run
-INFO: Client /127.0.0.1 Port: 52401 has been terminated at 2025-04-22T22:40:31.318194500
+Apr 22, 2025 10:50:54 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52920 has been connected at 2025-04-22T22:50:54.362154500
+Apr 22, 2025 10:50:57 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52920 sent message: 59 / 12
+Apr 22, 2025 10:50:57 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52920 has been given result: 4.916666666666667 at: 2025-04-22T22:50:57.368442700
+Apr 22, 2025 10:50:58 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52926 has been connected at 2025-04-22T22:50:58.168995700
+Apr 22, 2025 10:51:00 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52926 sent message: 11 / 56
+Apr 22, 2025 10:51:00 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52926 has been given result: 0.19642857142857142 at: 2025-04-22T22:51:00.195584400
+Apr 22, 2025 10:51:00 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52920 sent message: 17 - 0
+Apr 22, 2025 10:51:00 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52920 has been given result: 17.0 at: 2025-04-22T22:51:00.372981800
+Apr 22, 2025 10:51:02 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52926 sent message: 49 * 5
+Apr 22, 2025 10:51:02 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52926 has been given result: 245.0 at: 2025-04-22T22:51:02.207996
+Apr 22, 2025 10:51:03 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52926 sent message: 94 * 16
+Apr 22, 2025 10:51:03 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52920 has been given result: 1504.0 at: 2025-04-22T22:51:03.220925300
+Apr 22, 2025 10:51:03 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52926 has been terminated at 2025-04-22T22:51:03.220925300
+Apr 22, 2025 10:51:04 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52920 sent message: 0 + 82
+Apr 22, 2025 10:51:04 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52926 has been given result: 82.0 at: 2025-04-22T22:51:04.387949500
+Apr 22, 2025 10:51:04 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52920 has been terminated at 2025-04-22T22:51:04.387949500
+Apr 22, 2025 10:51:37 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52938 has been connected at 2025-04-22T22:51:37.401013100
+Apr 22, 2025 10:51:38 PM ClientHandler run
+WARNING: Client: /127.0.0.1 socket: 52938 disconnected abruptly: Connection reset
+Apr 22, 2025 10:52:02 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52951 has been connected at 2025-04-22T22:52:02.052091900
+Apr 22, 2025 10:52:07 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52951 sent message: 67 + 59
+Apr 22, 2025 10:52:07 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52920 has been given result: 126.0 at: 2025-04-22T22:52:07.066163600
+Apr 22, 2025 10:52:11 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52951 sent message: 71 / 81
+Apr 22, 2025 10:52:11 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52926 has been given result: 0.8765432098765432 at: 2025-04-22T22:52:11.072619900
+Apr 22, 2025 10:52:16 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52951 sent message: 58 + 59
+Apr 22, 2025 10:52:16 PM Server lambda$0
+INFO: Client /127.0.0.1 Port: 52938 has been given result: 117.0 at: 2025-04-22T22:52:16.081382800
+Apr 22, 2025 10:52:16 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52951 has been terminated at 2025-04-22T22:52:16.082384
