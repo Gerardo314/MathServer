@@ -1,0 +1,384 @@
+Apr 26, 2025 5:08:24 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52821 has been connected at 2025-04-26T17:08:24.382728
+Apr 26, 2025 5:08:25 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52821 sent message: 56 / 20
+Apr 26, 2025 5:08:25 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52821 has been given result: 2.8 at: 2025-04-26T17:08:25.375699
+Apr 26, 2025 5:08:28 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52821 sent message: 80 + 71
+Apr 26, 2025 5:08:28 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52821 has been given result: 151.0 at: 2025-04-26T17:08:28.383070
+Apr 26, 2025 5:08:30 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52821 sent message: 28 + 14
+Apr 26, 2025 5:08:30 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52821 has been given result: 42.0 at: 2025-04-26T17:08:30.390461
+Apr 26, 2025 5:08:30 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52821 has been terminated at 2025-04-26T17:08:30.392653
+Apr 26, 2025 5:08:43 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52823 has been connected at 2025-04-26T17:08:43.475459
+Apr 26, 2025 5:08:46 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52823 sent message: 23 * 80
+Apr 26, 2025 5:08:46 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52821 has been given result: 1840.0 at: 2025-04-26T17:08:46.528823
+Apr 26, 2025 5:08:47 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52823 sent message: 24 * 64
+Apr 26, 2025 5:08:47 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52823 has been given result: 1536.0 at: 2025-04-26T17:08:47.536569
+Apr 26, 2025 5:08:51 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52823 sent message: 61 + 70
+Apr 26, 2025 5:08:51 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52821 has been given result: 131.0 at: 2025-04-26T17:08:51.538856
+Apr 26, 2025 5:08:51 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52823 has been terminated at 2025-04-26T17:08:51.540508
+Apr 26, 2025 5:08:55 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52824 has been connected at 2025-04-26T17:08:55.932777
+Apr 26, 2025 5:09:00 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52824 sent message: 78 + 38
+Apr 26, 2025 5:09:00 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52823 has been given result: 116.0 at: 2025-04-26T17:09:00.954124
+Apr 26, 2025 5:09:02 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52824 sent message: 69 + 38
+Apr 26, 2025 5:09:02 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52821 has been given result: 107.0 at: 2025-04-26T17:09:02.960895
+Apr 26, 2025 5:09:05 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52825 has been connected at 2025-04-26T17:09:05.421962
+Apr 26, 2025 5:09:06 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52824 sent message: 21 * 6
+Apr 26, 2025 5:09:06 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52824 has been given result: 126.0 at: 2025-04-26T17:09:06.966830
+Apr 26, 2025 5:09:06 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52824 has been terminated at 2025-04-26T17:09:06.968656
+Apr 26, 2025 5:09:09 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52825 sent message: 36 / 66
+Apr 26, 2025 5:09:09 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52823 has been given result: 0.5454545454545454 at: 2025-04-26T17:09:09.457611
+Apr 26, 2025 5:09:14 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52825 sent message: 2 * 89
+Apr 26, 2025 5:09:14 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52821 has been given result: 178.0 at: 2025-04-26T17:09:14.460830
+Apr 26, 2025 5:09:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52825 sent message: 15 / 51
+Apr 26, 2025 5:09:19 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52825 has been given result: 0.29411764705882354 at: 2025-04-26T17:09:19.466873
+Apr 26, 2025 5:09:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 52825 has been terminated at 2025-04-26T17:09:19.468999
+Apr 27, 2025 9:36:18 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53306 has been connected at 2025-04-27T21:36:18.344355
+Apr 27, 2025 9:36:21 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53306 sent message: 82 - 9
+Apr 27, 2025 9:36:21 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52824 has been given result: 73.0 at: 2025-04-27T21:36:21.374560
+Apr 27, 2025 9:36:25 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53306 sent message: 45 + 72
+Apr 27, 2025 9:36:25 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52823 has been given result: 117.0 at: 2025-04-27T21:36:25.382075
+Apr 27, 2025 9:36:27 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53306 sent message: 66 / 73
+Apr 27, 2025 9:36:27 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 52821 has been given result: 0.9041095890410958 at: 2025-04-27T21:36:27.385825
+Apr 27, 2025 9:36:27 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53306 has been terminated at 2025-04-27T21:36:27.388116
+Apr 27, 2025 9:39:06 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53344 has been connected at 2025-04-27T21:39:06.958483
+Apr 27, 2025 9:39:09 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53344 sent message: 21 * 61
+Apr 27, 2025 9:39:09 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53344 has been given result: 1281.0 at: 2025-04-27T21:39:09.973927
+Apr 27, 2025 9:39:11 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53344 sent message: 71 - 91
+Apr 27, 2025 9:39:11 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53344 has been given result: -20.0 at: 2025-04-27T21:39:11.979755
+Apr 27, 2025 9:39:13 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53344 sent message: 30 + 0
+Apr 27, 2025 9:39:13 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53344 has been given result: 30.0 at: 2025-04-27T21:39:13.983339
+Apr 27, 2025 9:39:13 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53344 has been terminated at 2025-04-27T21:39:13.985248
+Apr 27, 2025 9:39:22 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53345 has been connected at 2025-04-27T21:39:22.177126
+Apr 27, 2025 9:39:24 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53345 sent message: 46 / 71
+Apr 27, 2025 9:39:24 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53344 has been given result: 0.647887323943662 at: 2025-04-27T21:39:24.199033
+Apr 27, 2025 9:39:29 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53345 sent message: 18 / 67
+Apr 27, 2025 9:39:29 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53345 has been given result: 0.26865671641791045 at: 2025-04-27T21:39:29.205742
+Apr 27, 2025 9:39:29 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53346 has been connected at 2025-04-27T21:39:29.709962
+Apr 27, 2025 9:39:34 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53345 sent message: 74 + 51
+Apr 27, 2025 9:39:34 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53344 has been given result: 125.0 at: 2025-04-27T21:39:34.212069
+Apr 27, 2025 9:39:34 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53345 has been terminated at 2025-04-27T21:39:34.214293
+Apr 27, 2025 9:39:34 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53346 sent message: 40 + 32
+Apr 27, 2025 9:39:34 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53346 has been given result: 72.0 at: 2025-04-27T21:39:34.741926
+Apr 27, 2025 9:39:35 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53346 sent message: 15 - 46
+Apr 27, 2025 9:39:35 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53345 has been given result: -31.0 at: 2025-04-27T21:39:35.744954
+Apr 27, 2025 9:39:37 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53346 sent message: 5 * 3
+Apr 27, 2025 9:39:37 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53344 has been given result: 15.0 at: 2025-04-27T21:39:37.746975
+Apr 27, 2025 9:39:37 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53346 has been terminated at 2025-04-27T21:39:37.748196
+Apr 27, 2025 9:51:58 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53412 has been connected at 2025-04-27T21:51:58.830481
+Apr 27, 2025 9:51:59 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53412 sent message: 87 / 72
+Apr 27, 2025 9:51:59 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53412 has been given result: 1.2083333333333333 at: 2025-04-27T21:51:59.831905
+Apr 27, 2025 9:52:01 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53412 sent message: 6 / 21
+Apr 27, 2025 9:52:01 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53412 has been given result: 0.2857142857142857 at: 2025-04-27T21:52:01.837691
+Apr 27, 2025 9:52:02 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53412 sent message: 15 * 92
+Apr 27, 2025 9:52:02 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53412 has been given result: 1380.0 at: 2025-04-27T21:52:02.840873
+Apr 27, 2025 9:52:02 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53412 has been terminated at 2025-04-27T21:52:02.843041
+Apr 27, 2025 9:52:12 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53413 has been connected at 2025-04-27T21:52:12.276199
+Apr 27, 2025 9:52:15 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53413 sent message: 38 + 33
+Apr 27, 2025 9:52:15 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53412 has been given result: 71.0 at: 2025-04-27T21:52:15.309458
+Apr 27, 2025 9:52:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53413 sent message: 73 + 82
+Apr 27, 2025 9:52:19 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53413 has been given result: 155.0 at: 2025-04-27T21:52:19.313567
+Apr 27, 2025 9:52:21 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53413 sent message: 66 - 68
+Apr 27, 2025 9:52:21 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53412 has been given result: -2.0 at: 2025-04-27T21:52:21.320671
+Apr 27, 2025 9:52:21 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53413 has been terminated at 2025-04-27T21:52:21.322275
+Apr 27, 2025 9:54:04 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53420 has been connected at 2025-04-27T21:54:04.838413
+Apr 27, 2025 9:54:09 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53420 sent message: 87 + 39
+Apr 27, 2025 9:54:09 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53420 has been given result: 126.0 at: 2025-04-27T21:54:09.857070
+Apr 27, 2025 9:54:13 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53420 sent message: 35 + 86
+Apr 27, 2025 9:54:13 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53420 has been given result: 121.0 at: 2025-04-27T21:54:13.864676
+Apr 27, 2025 9:54:14 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53420 sent message: 9 + 46
+Apr 27, 2025 9:54:14 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53420 has been given result: 55.0 at: 2025-04-27T21:54:14.871295
+Apr 27, 2025 9:54:14 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53420 has been terminated at 2025-04-27T21:54:14.873762
+Apr 27, 2025 9:56:12 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53427 has been connected at 2025-04-27T21:56:12.688165
+Apr 27, 2025 9:56:15 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53427 sent message: 39 + 37
+Apr 27, 2025 9:56:15 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53420 has been given result: 76.0 at: 2025-04-27T21:56:15.716581
+Apr 27, 2025 9:56:20 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53427 sent message: 74 / 71
+Apr 27, 2025 9:56:20 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53427 has been given result: 1.0422535211267605 at: 2025-04-27T21:56:20.723014
+Apr 27, 2025 9:56:24 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53427 sent message: 47 * 71
+Apr 27, 2025 9:56:24 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53420 has been given result: 3337.0 at: 2025-04-27T21:56:24.731344
+Apr 27, 2025 9:56:24 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53427 has been terminated at 2025-04-27T21:56:24.733516
+Apr 27, 2025 9:58:11 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53435 has been connected at 2025-04-27T21:58:11.953325
+Apr 27, 2025 9:58:15 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53435 sent message: 45 - 17
+Apr 27, 2025 9:58:15 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53427 has been given result: 28.0 at: 2025-04-27T21:58:15.983629
+Apr 27, 2025 9:58:17 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53435 sent message: 77 + 27
+Apr 27, 2025 9:58:17 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53420 has been given result: 104.0 at: 2025-04-27T21:58:17.986412
+Apr 27, 2025 9:58:20 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53437 has been connected at 2025-04-27T21:58:20.831129
+Apr 27, 2025 9:58:22 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53437 sent message: 38 / 40
+Apr 27, 2025 9:58:22 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53435 has been given result: 0.95 at: 2025-04-27T21:58:22.850926
+Apr 27, 2025 9:58:22 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53435 sent message: 2 * 4
+Apr 27, 2025 9:58:22 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53427 has been given result: 8.0 at: 2025-04-27T21:58:22.989394
+Apr 27, 2025 9:58:22 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53435 has been terminated at 2025-04-27T21:58:22.991701
+Apr 27, 2025 9:58:27 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53437 sent message: 74 - 62
+Apr 27, 2025 9:58:27 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53420 has been given result: 12.0 at: 2025-04-27T21:58:27.875182
+Apr 27, 2025 9:58:28 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53437 sent message: 53 - 78
+Apr 27, 2025 9:58:28 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53437 has been given result: -25.0 at: 2025-04-27T21:58:28.877812
+Apr 27, 2025 9:58:28 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53437 has been terminated at 2025-04-27T21:58:28.879619
+Apr 27, 2025 9:59:10 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53438 has been connected at 2025-04-27T21:59:10.218812
+Apr 27, 2025 9:59:12 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53438 sent message: 74 * 99
+Apr 27, 2025 9:59:12 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53435 has been given result: 7326.0 at: 2025-04-27T21:59:12.238927
+Apr 27, 2025 9:59:14 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53438 sent message: 21 - 18
+Apr 27, 2025 9:59:14 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53427 has been given result: 3.0 at: 2025-04-27T21:59:14.241697
+Apr 27, 2025 9:59:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53438 sent message: 21 * 61
+Apr 27, 2025 9:59:19 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53420 has been given result: 1281.0 at: 2025-04-27T21:59:19.246959
+Apr 27, 2025 9:59:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53438 has been terminated at 2025-04-27T21:59:19.248441
+Apr 27, 2025 9:59:21 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53439 has been connected at 2025-04-27T21:59:21.025819
+Apr 27, 2025 9:59:26 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53439 sent message: 78 / 73
+Apr 27, 2025 9:59:26 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53437 has been given result: 1.0684931506849316 at: 2025-04-27T21:59:26.060791
+Apr 27, 2025 9:59:29 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53439 sent message: 83 - 70
+Apr 27, 2025 9:59:29 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53438 has been given result: 13.0 at: 2025-04-27T21:59:29.067029
+Apr 27, 2025 9:59:31 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53439 sent message: 65 + 88
+Apr 27, 2025 9:59:31 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53435 has been given result: 153.0 at: 2025-04-27T21:59:31.071609
+Apr 27, 2025 9:59:31 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53439 has been terminated at 2025-04-27T21:59:31.073431
+Apr 27, 2025 10:02:21 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53461 has been connected at 2025-04-27T22:02:21.945440
+Apr 27, 2025 10:02:26 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53461 sent message: 3 + 28
+Apr 27, 2025 10:02:26 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53461 has been given result: 31.0 at: 2025-04-27T22:02:26.959164
+Apr 27, 2025 10:02:30 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53462 has been connected at 2025-04-27T22:02:30.564198
+Apr 27, 2025 10:02:30 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53461 sent message: 45 / 99
+Apr 27, 2025 10:02:30 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53461 has been given result: 0.45454545454545453 at: 2025-04-27T22:02:30.962780
+Apr 27, 2025 10:02:33 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53461 sent message: 81 * 14
+Apr 27, 2025 10:02:33 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53462 has been given result: 1134.0 at: 2025-04-27T22:02:33.969892
+Apr 27, 2025 10:02:33 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53461 has been terminated at 2025-04-27T22:02:33.971284
+Apr 27, 2025 10:02:34 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53462 sent message: 4 / 28
+Apr 27, 2025 10:02:34 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53461 has been given result: 0.14285714285714285 at: 2025-04-27T22:02:34.592390
+Apr 27, 2025 10:02:35 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53462 sent message: 26 / 55
+Apr 27, 2025 10:02:35 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53462 has been given result: 0.4727272727272727 at: 2025-04-27T22:02:35.599653
+Apr 27, 2025 10:02:40 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53462 sent message: 50 + 57
+Apr 27, 2025 10:02:40 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53461 has been given result: 107.0 at: 2025-04-27T22:02:40.606520
+Apr 27, 2025 10:02:40 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53462 has been terminated at 2025-04-27T22:02:40.609042
+Apr 27, 2025 11:01:14 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53624 has been connected at 2025-04-27T23:01:14.757184
+Apr 27, 2025 11:01:17 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53624 sent message: 29 * 66
+Apr 27, 2025 11:01:17 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53462 has been given result: 1914.0 at: 2025-04-27T23:01:17.777456
+Apr 27, 2025 11:01:18 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53624 sent message: 52 / 13
+Apr 27, 2025 11:01:18 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53461 has been given result: 4.0 at: 2025-04-27T23:01:18.780084
+Apr 27, 2025 11:01:20 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53624 sent message: 43 / 71
+Apr 27, 2025 11:01:20 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53624 has been given result: 0.6056338028169014 at: 2025-04-27T23:01:20.786914
+Apr 27, 2025 11:01:20 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53624 has been terminated at 2025-04-27T23:01:20.787999
+Apr 27, 2025 11:01:28 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53625 has been connected at 2025-04-27T23:01:28.422116
+Apr 27, 2025 11:01:32 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53625 sent message: 71 + 26
+Apr 27, 2025 11:01:32 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53462 has been given result: 97.0 at: 2025-04-27T23:01:32.445747
+Apr 27, 2025 11:01:35 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53625 sent message: 82 / 71
+Apr 27, 2025 11:01:35 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53461 has been given result: 1.1549295774647887 at: 2025-04-27T23:01:35.447875
+Apr 27, 2025 11:01:36 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53625 sent message: 57 / 46
+Apr 27, 2025 11:01:36 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 53624 has been given result: 1.2391304347826086 at: 2025-04-27T23:01:36.449307
+Apr 27, 2025 11:01:36 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 53625 has been terminated at 2025-04-27T23:01:36.450690
+Apr 29, 2025 4:13:07 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58904 has been connected at 2025-04-29T16:13:07.508448
+Apr 29, 2025 4:13:12 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58904 sent message: 39 - 24
+Apr 29, 2025 4:13:12 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 58904 has been given result: 15.0 at: 2025-04-29T16:13:12.498411
+Apr 29, 2025 4:13:15 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58905 has been connected at 2025-04-29T16:13:15.208510
+Apr 29, 2025 4:13:15 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58904 sent message: 99 / 23
+Apr 29, 2025 4:13:15 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 58904 has been given result: 4.304347826086956 at: 2025-04-29T16:13:15.505317
+Apr 29, 2025 4:13:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58905 sent message: 95 - 36
+Apr 29, 2025 4:13:19 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 58905 has been given result: 59.0 at: 2025-04-29T16:13:19.231444
+Apr 29, 2025 4:13:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58904 sent message: 99 * 56
+Apr 29, 2025 4:13:19 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 58904 has been given result: 5544.0 at: 2025-04-29T16:13:19.511075
+Apr 29, 2025 4:13:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58904 has been terminated at 2025-04-29T16:13:19.512202
+Apr 29, 2025 4:13:24 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58905 sent message: 28 / 1
+Apr 29, 2025 4:13:24 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 58905 has been given result: 28.0 at: 2025-04-29T16:13:24.236577
+Apr 29, 2025 4:13:26 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58905 sent message: 64 + 60
+Apr 29, 2025 4:13:26 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 58904 has been given result: 124.0 at: 2025-04-29T16:13:26.238268
+Apr 29, 2025 4:13:26 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 58905 has been terminated at 2025-04-29T16:13:26.239169
+Apr 29, 2025 4:51:08 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59083 has been connected at 2025-04-29T16:51:08.892160
+Apr 29, 2025 4:51:13 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59083 sent message: 91 * 27
+Apr 29, 2025 4:51:13 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 59083 has been given result: 2457.0 at: 2025-04-29T16:51:13.903966
+Apr 29, 2025 4:51:18 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59083 sent message: 52 + 24
+Apr 29, 2025 4:51:18 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 59083 has been given result: 76.0 at: 2025-04-29T16:51:18.906799
+Apr 29, 2025 4:51:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59083 sent message: 35 / 58
+Apr 29, 2025 4:51:19 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 59083 has been given result: 0.603448275862069 at: 2025-04-29T16:51:19.909096
+Apr 29, 2025 4:51:19 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59083 has been terminated at 2025-04-29T16:51:19.910487
+Apr 29, 2025 4:51:24 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59084 has been connected at 2025-04-29T16:51:24.324569
+Apr 29, 2025 4:51:29 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59084 sent message: 40 - 2
+Apr 29, 2025 4:51:29 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 59083 has been given result: 38.0 at: 2025-04-29T16:51:29.349107
+Apr 29, 2025 4:51:30 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59084 sent message: 26 * 43
+Apr 29, 2025 4:51:30 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 59084 has been given result: 1118.0 at: 2025-04-29T16:51:30.351696
+Apr 29, 2025 4:51:34 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59084 sent message: 12 * 92
+Apr 29, 2025 4:51:34 PM Server lambda$main$0
+INFO: Client /127.0.0.1 Port: 59083 has been given result: 1104.0 at: 2025-04-29T16:51:34.353508
+Apr 29, 2025 4:51:34 PM ClientHandler run
+INFO: Client /127.0.0.1 Port: 59084 has been terminated at 2025-04-29T16:51:34.354357
