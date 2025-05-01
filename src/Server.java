@@ -5,13 +5,16 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.logging.*;
 
+/**
+ * This class represents the Server that handles mathematical epxressions requests from clients 
+ */
 public class Server {
     public static void main(String[] args) throws Exception {
 
-        BlockingQueue<ClientRequest> mainQueue = new  LinkedBlockingQueue<ClientRequest>(); 
+        BlockingQueue<ClientRequest> mainQueue = new  LinkedBlockingQueue<ClientRequest>(); //queue for solving expressions (shared by all clients)
         ServerSocket welcomeSocket = null;
         
-        Logger logger =  Logger.getLogger("MathServerLogger");
+        Logger logger =  Logger.getLogger("MathServerLogger");//instantiates logger to log everything
         try
         { 
             welcomeSocket = new ServerSocket(6790);
@@ -55,6 +58,13 @@ public class Server {
             }
         }
     }
+    /**
+     * Method to evaluate a simple math expression 
+     * @param expression The expression to be solved 
+     * @param out the output stream for the respective client where the result is sent to 
+     * @return the result of the expression 
+     * @throws IOException An exception can be thrown if there is a divide by zero 
+     */
     public static double evaluate(String expression, ObjectOutputStream out) throws IOException{
         expression = expression.replaceAll("\\s+", "");
         char[] operators = {'+', '-', '*', '/'};
